@@ -77,6 +77,7 @@ void gerarCombinacoesParenteses(int abertos, int fechados, char *str, int pos, i
 
 #define TAMANHO_MATRIZ 4
 
+// Prototipação das funções...
 
 int main(void) {
     // Exercício 1 - Fatorial
